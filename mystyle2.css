@@ -1,0 +1,8 @@
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    overflow-x: ;
+    overflow-y: ;
+    filter: sepia(100%)!important;
+
+}
