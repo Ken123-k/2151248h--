@@ -13,7 +13,7 @@
       "css": ["mystyle.css"]
     },
     {
-      "matches": ["https://www.seidai.jp/staff_blog/details_1077.html/*"],
+      "matches": ["https://www.seidai.jp/staff_blog/details_1077.html*"],
       "js": ["gobi.js"]
     },
     {
